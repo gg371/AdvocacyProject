@@ -20,7 +20,6 @@ namespace AdvocacyProject.Pages
 
         public void OnGet()
         {
-            
         }
     }
 }
